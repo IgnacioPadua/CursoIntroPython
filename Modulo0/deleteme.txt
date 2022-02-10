@@ -1,0 +1,1 @@
+Agregué este archivo para poder crear una carpeta. Borrar este archivo una vez anexada la Kata del modulo 0
